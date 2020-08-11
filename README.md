@@ -20,7 +20,7 @@ Data can be found at http://bit.ly/w-data </br>
 ![alt_text](https://github.com/arjuaman/Data-Science-Intern-tasks-by-The-Sparks-Foundation/blob/master/Task_2/tr_sc.png)
 
 Upon doing the EDA and training on all the training data, we have: </br>
-![alt_text}(https://github.com/arjuaman/Data-Science-Intern-tasks-by-The-Sparks-Foundation/blob/master/Task_2/all_data.png)
+![alt_text](https://github.com/arjuaman/Data-Science-Intern-tasks-by-The-Sparks-Foundation/blob/master/Task_2/all_data.png)
 
 Hence, If a student studies for 9.25 hours a day, percentage he'd score: 95.35 %
 
